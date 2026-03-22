@@ -1,4 +1,7 @@
-# Supplementary Materials for "LineDef: Line-Level Defect Prediction by Capturing Code Contexts with Graph Neural Networks"
+ # Supplementary Materials for "LineDef: Line-Level Defect Prediction by Capturing Code Contexts with Graph Neural Networks"
+
+This repository contains the official source code for the paper: 
+**[Line-level defect prediction by capturing code contexts with graph convolutional networks](https://ieeexplore.ieee.org/abstract/document/10759072/)**.
 
 ## Datasets
 
